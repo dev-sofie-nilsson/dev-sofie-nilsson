@@ -1,4 +1,4 @@
-# Hi, I'm Sofie 👋
+# Hi, I'm Sofie ✨
 
 I'm a web developer and photographer based in Sweden, with a passion for clean design and visual storytelling.
 

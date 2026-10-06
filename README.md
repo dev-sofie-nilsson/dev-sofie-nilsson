@@ -12,12 +12,25 @@ I'm a web developer and photographer based in Sweden, with a passion for clean d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-## 🔧 Tools & Methods
-- Agile
-- Azure boards
-- Figma & UI/UX Design
-- Adobe Lightroom
+## 🛠️ Skills
+
+**Frontend**
+- HTML & CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+**Backend**
+- Node.js & Express
+- SQLite / SQL
+- C# & .NET
+
+**Tools & Methods**
 - Git & GitHub
+- Azure Boards
+- Figma & UI/UX Design
+- Agile & Scrum
+- Adobe Lightroom
 
 ## 📸 About Me
 - 🎓 Educated photographer & web developer
